@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7f3d36a-7717-4bab-a620-cf21be713090" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/tn/iit/storemanagement/rest/CategoryResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/iit/storemanagement/rest/CategoryResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tn/iit/storemanagement/rest/MedicamentResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/iit/storemanagement/rest/MedicamentResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1mkGfouF4huc1GK00olkaJ5Cys8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in storemanagement">
+    <configuration name="All in storemanagement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="storemanagement" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoremanagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="storemanagement" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tn.iit.storemanagement.StoremanagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in storemanagement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7f3d36a-7717-4bab-a620-cf21be713090" name="Default Changelist" comment="" />
+      <created>1610030280715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610030280715</updated>
+      <workItem from="1610030284800" duration="2503000" />
+      <workItem from="1610056641687" duration="5000" />
+      <workItem from="1610062252162" duration="721000" />
+      <workItem from="1610224832825" duration="7503000" />
+      <workItem from="1610267395145" duration="3577000" />
+      <workItem from="1611133773550" duration="3126000" />
+      <workItem from="1611277606125" duration="922000" />
+      <workItem from="1611305692303" duration="6257000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

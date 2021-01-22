@@ -1,0 +1,15 @@
+tn\iit\storemanagement\config\SwaggerConfig.class
+tn\iit\storemanagement\mappers\CategoryMapper.class
+tn\iit\storemanagement\service\MedicamentService.class
+tn\iit\storemanagement\config\CrossConfig.class
+tn\iit\storemanagement\dao\MedicamentDao.class
+tn\iit\storemanagement\mappers\MedicamentMapper.class
+tn\iit\storemanagement\dao\CategoryDao.class
+tn\iit\storemanagement\service\CategoryService.class
+tn\iit\storemanagement\domain\Medicament.class
+tn\iit\storemanagement\dto\MedicamentDto.class
+tn\iit\storemanagement\dto\CategoryDto.class
+tn\iit\storemanagement\rest\CategoryResource.class
+tn\iit\storemanagement\rest\MedicamentResource.class
+tn\iit\storemanagement\StoremanagementApplication.class
+tn\iit\storemanagement\domain\Category.class
